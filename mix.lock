@@ -12,4 +12,5 @@
   "poolboy": {:hex, :poolboy, "1.5.1"},
   "postgrex": {:hex, :postgrex, "0.9.1"},
   "ranch": {:hex, :ranch, "1.1.0"},
-  "redo": {:hex, :redo, "2.0.1"}}
+  "redo": {:hex, :redo, "2.0.1"},
+  "telly": {:git, "https://github.com/trarbr/telly.git", "e6a166a8e33ee9cc956a09bb8705cdab6687933c", []}}
